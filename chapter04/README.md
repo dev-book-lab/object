@@ -411,8 +411,8 @@ Movie movie = new Movie(...);  // 우리가 만든 코드 = 변경 가능성 높
                     ↓
         ┌───────────┴───────────┐
         ↓                       ↓
-   응집도 ↑                  결합도 ↓
-  (모듈 내부)              (모듈 사이)
+     응집도 ↑                   결합도 ↓
+    (모듈 내부)                (모듈 사이)
 ```
 
 **핵심**: 응집도와 결합도를 고려하기 전에 먼저 **캡슐화**를 향상시켜라!
@@ -1358,7 +1358,7 @@ ReservationAgency
 
 ### 📦 ReservationAgency - 극적으로 단순해짐
 
-> 📂 **코드**: [`ReservationAgency.java`](https://github.com/eternity-oop/object/blob/master/chapter04/src/main/java/or g/eternity/movie/step02/ReservationAgency.java)
+> 📂 **코드**: [`ReservationAgency.java`](https://github.com/eternity-oop/object/blob/master/chapter04/src/main/java/org/eternity/movie/step02/ReservationAgency.java)
 
 #### 개선된 코드
 
@@ -2211,6 +2211,11 @@ public class Product {
 ```
 
 ---
+
+<div align="center">
+
+**[⬆ 목차로 돌아가기](../README.md)**
+</div>
 
 <div align="center">
 

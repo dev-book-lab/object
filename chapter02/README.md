@@ -1970,3 +1970,9 @@ public class AmountDiscountPolicy extends DefaultDiscountPolicy {
 **[⬆ 목차로 돌아가기](../README.md)**
 
 </div>
+
+<div align="center">
+
+**[← Chapter 01](../chapter01/README.md) | [Chapter 03 →](../chapter03/README.md)**
+
+</div>
