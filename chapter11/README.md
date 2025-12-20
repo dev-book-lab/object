@@ -3153,7 +3153,7 @@ public abstract class LogDecorator implements LogStrategy {
 
 <div align="center">
 
-**[⬆ 목차로 돌아가기](#-목차)**
+**[⬆ 목차로 돌아가기](../README.md)**
 
 </div>
 

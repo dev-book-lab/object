@@ -2788,7 +2788,7 @@ public class RegularPhone extends Phone {
 
 <div align="center">
 
-**[⬆ 목차로 돌아가기](#-목차)**
+**[⬆ 목차로 돌아가기](../README.md)**
 
 </div>
 

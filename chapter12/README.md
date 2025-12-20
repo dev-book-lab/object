@@ -2272,7 +2272,7 @@ gradeLecture.stats();  // prototype 체인 따라 탐색
 
 <div align="center">
 
-**[⬆ 목차로 돌아가기](#-목차)**
+**[⬆ 목차로 돌아가기](../README.md)**
 
 </div>
 
