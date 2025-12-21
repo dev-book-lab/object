@@ -1435,6 +1435,6 @@ DIP (의존성 역전 원칙):
 
 <div align="center">
 
-**[⬅️ 이전: Chapter 15](../chapter15/README.md)** | **[다음: Appendix B ➡️](#)**
+**[⬅️ 이전: Chapter 15](../chapter15/README.md)** | **[다음: Appendix B ➡️](../appendixB/README.md)**
 
 </div>

@@ -1565,7 +1565,7 @@ DECORATOR:
 
 <div align="center">
 
-**[⬅️ 이전: Chapter 14](../chapter14/README.md)**
+**[⬅️ 이전: Chapter 14](../chapter14/README.md)** | **[다음: Appendix A ➡️](../appendixA/README.md)**
 
 ---
 

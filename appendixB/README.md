@@ -1580,6 +1580,6 @@ list.stream().forEach(System.out::println);
 
 <div align="center">
 
-**[⬅️ 이전: Appendix A](../appendixA/README.md)** | **[다음: Appendix C ➡️](#)**
+**[⬅️ 이전: Appendix A](../appendixA/README.md)** | **[다음: Appendix C ➡️](../appendixC/README.md)**
 
 </div>
