@@ -7,6 +7,10 @@
 > AI와 함께 정리한 객체지향 설계 학습 저장소
 
 [![GitHub](https://img.shields.io/badge/GitHub-dev--book--lab-181717?style=flat-square&logo=github)](https://github.com/dev-book-lab)
+[![Java](https://img.shields.io/badge/Java-21%2B-orange?style=flat-square&logo=openjdk)](https://www.java.com)
+[![Chapters](https://img.shields.io/badge/Chapters-15-blue?style=flat-square&logo=readthedocs&logoColor=white)](./README.md)
+[![Appendix](https://img.shields.io/badge/Appendix-3-green?style=flat-square&logo=bookstack&logoColor=white)](./README.md)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square&logo=opensourceinitiative&logoColor=white)](./LICENSE)
 
 ---
 
@@ -57,7 +61,15 @@
 |      **[12. 다형성](./chapter12/README.md)**      | 다형성의 종류 | 상속, 오버로딩, 제네릭 |
 | **[13. 서브클래싱과 서브타이핑](./chapter13/README.md)**  | 상속의 용도 | 리스코프 치환 원칙 |
 |   **[14. 일관성 있는 협력](./chapter14/README.md)**   | 설계 일관성 | 협력 패턴 |
-|  **[15. 디자인 패턴과 프레임워크](chapter15/README.md)**  | 패턴과 프레임워크 | GoF 패턴, 프레임워크 |
+|  **[15. 디자인 패턴과 프레임워크](./chapter15/README.md)**  | 패턴과 프레임워크 | GoF 패턴, 프레임워크 |
+
+### 📘 부록
+
+|                    Appendix                    | 주제 | 핵심 키워드 |
+|:----------------------------------------------:|------|------------|
+|  **[A. 계약에 의한 설계](./appendixA/README.md)**   | 협력의 명시적 문서화 | 사전조건, 사후조건, 불변식, 공변성 |
+|  **[B. 타입 계층의 구현](./appendixB/README.md)**   | 다양한 타입 구현 방법 | 인터페이스, 추상 클래스, 덕 타이핑, 믹스인 |
+| **[C. 동적인 협력, 정적인 코드](./appendixC/README.md)** | 모델과 코드의 관계 | 동적 모델, 정적 모델, 도메인 모델, TYPE OBJECT |
 
 ---
 
